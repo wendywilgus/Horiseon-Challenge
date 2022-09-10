@@ -13,6 +13,13 @@ Solving the problems of this project taught me to understand better the relation
 - [Credits](#credits)
 - [Resources](#resources)
 
+## Languages Used
+The following languages were used to create this project:
+
+-HTML
+
+-CSS
+
 ## Mockup
 
 The following image was the mockup provided to document expectations for the final product. 
@@ -25,6 +32,8 @@ This project was completed as part of Georgia Tech's Full Stack Development Boot
 ## Resources
 
 The following resources were helpful in researching best practices and problem-solving on the project.
-HTML: <https://www.w3schools.com/html/html5_semantic_elements.asp>
-CSS: <https://developer.mozilla.org/en-US/docs/Web/CSS>
+
+-HTML: <https://www.w3schools.com/html/html5_semantic_elements.asp>
+
+-CSS: <https://developer.mozilla.org/en-US/docs/Web/CSS>
 ---

@@ -6,6 +6,8 @@ This project was to practice refactoring HTML and CSS to create a more logical a
 
 Solving the problems of this project taught me to understand better the relationships between inheritance in CSS, as well as the semantic organization for tidier HTML code.
 
+Link to deployed site here: <https://wendywilgus.github.io/Horiseon-Challenge/>
+
 ## Table of Contents
 
 - [Languages Used](#languages)
